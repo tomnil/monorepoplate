@@ -1,0 +1,10 @@
+# Misc stuff
+desktop.ini
+node_modules/
+
+# TS output dir
+bin/
+out/
+
+# TS --incremental file
+tsconfig.tsbuildinfo
